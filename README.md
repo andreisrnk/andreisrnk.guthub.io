@@ -22,8 +22,8 @@ Hello! I'm **Andrei Sarenko**, currently pursuing an MSc in Life Sciences at the
 
 ## 🚀 GitHub Projects
 
-- [🌟 Python Course Assignments](https://github.com/anderisrnk/python-course-assignments): My collection of assignments and learning milestones.
-- [🌐 Personal Website](https://anderisrnk.github.io/): Learn more about my work, research, and interests.
+- [🌟 Python Course Assignments](https://github.com/andreisrnk/python-course-assignments): My collection of assignments and learning milestones.
+- [🌐 Personal Website](https://andreisrnk.github.io/): Learn more about my work, research, and interests.
 
 ## 📫 Connect With Me
 
