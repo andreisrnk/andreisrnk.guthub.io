@@ -30,7 +30,6 @@ Hello! I'm **Andrei Sarenko**, currently pursuing an MSc in Life Sciences at the
 - **GitHub:** [andreisrnk](https://github.com/andreisrnk)
 - **LinkedIn:** [Connect here](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
 
----
 
 *"Exploring the intersections of biology, technology, and data for a sustainable future."*
 
